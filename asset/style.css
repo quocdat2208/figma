@@ -1,0 +1,550 @@
+#main {
+    height: 1244px;
+    width: 1920px;
+    position: relative;
+}
+
+.rectangle253 {
+    position: absolute; 
+}
+
+.image17 {
+    height: 1244px;
+    width: 1920px;
+    background: url('img.png') no-repeat;
+    background-size: cover;
+}
+
+.rectangle310 {
+    display: flex;
+    position: absolute;
+    background: black;
+    height: 64px;
+    width: 1920px;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+    opacity: 0.2;
+    
+}
+
+.grid-48 {
+    position: absolute;
+    height: 24px;
+    width: 24px;
+    left: 40px;
+    top: 20px;
+    border-radius: 0px;
+
+
+    
+}
+.vector-grid-48 {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+}
+.group-grid-48 {
+    position: absolute;
+    height: 22px;
+    width: 22px;
+    left: 1px;
+    top: 1px;
+    border-radius: 0px;
+
+}
+
+
+
+.icon-grid-481 {
+    position: absolute;
+    left: 70.83%;
+    right: 4.17%;
+    top: 70.83%;
+    bottom: 4.17%;
+    background: #34AAFF;
+}
+
+.icon-grid-482 {
+    position: absolute;
+    left: 70.83%;
+    right: 4.17%;
+    top: 37.5%;
+    bottom: 37.5%;
+    background: #34AAFF;
+}
+
+.icon-grid-483 {
+    position: absolute;
+    left: 70.83%;
+    right: 4.17%;
+    top: 4.17%;
+    bottom: 70.83%;
+    background: #34AAFF;
+}
+
+.icon-grid-484 {
+    position: absolute;
+    left: 37.5%;
+    right: 37.5%;
+    top: 70.83%;
+    bottom: 4.17%;   
+    background: #34AAFF;
+}
+
+.icon-grid-485 {
+    position: absolute;
+    left: 37.5%;
+    right: 37.5%;
+    top: 37.5%;
+    bottom: 37.5%;
+    background: #34AAFF;
+}
+
+.icon-grid-486 {
+    position: absolute;
+    left: 37.5%;
+    right: 37.5%;
+    top: 4.17%;
+    bottom: 70.83%;
+    background: #34AAFF;
+}
+
+.icon-grid-487 {
+    position: absolute;
+    left: 4.17%;
+    right: 70.83%;
+    top: 70.83%;
+    bottom: 4.17%;
+    background: #34AAFF;
+}
+
+.icon-grid-488 {
+    position: absolute;
+    left: 4.17%;
+    right: 70.83%;
+    top: 37.5%;
+    bottom: 37.5%;
+    background: #34AAFF;
+}
+
+.icon-grid-489 {
+    position: absolute;
+    left: 4.17%;
+    right: 70.83%;
+    top: 4.17%;
+    bottom: 70.83%;
+    background: #34AAFF;
+} 
+
+  
+.logo {
+    position: absolute;
+    width: 160px;
+    height: 28px;
+    left: 88px;
+    top: 15px;
+    background: url(.png);
+
+}
+
+.alarm-bell {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 1569px;
+    top: 22px;
+}
+
+.group {
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    left: 1615px;
+    top: 20px;
+}
+
+.welcome {
+    position: absolute;
+    width: 205px;
+    height: 18px;
+    left: 1651px;
+    top: 25px;
+
+    font-family: SF Pro Text;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+.VNFD-1 {
+    position: absolute;
+    width: 131px;
+    height: 48px;
+    left: 40px;
+    top: 94px;
+
+    font-family: SF Pro Display;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 48px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+.group-530 {
+    position: absolute;
+    width: 405px;
+    height: 1032px;
+    left: 40px;
+    top: 172px;
+}
+
+.main-centent {
+    position: absolute;
+    width: 1435px;
+    height: 1032px;
+    left: 445px;
+    top: 172px;
+    background: #212529;
+    opacity: 0.6;
+    border-radius: 0px 12px 12px 10px;
+}
+.flavour{
+/* Flavour */
+
+position: absolute;
+width: 99px;
+height: 39px;
+left: 40px;
+top: 35px;
+
+font-family: SF Pro Display;
+font-style: normal;
+font-weight: normal;
+font-size: 32px;
+line-height: 38px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+opacity: 0.4;
+   
+}
+.vnfindicator{
+/* VNF Indicator */
+
+position: absolute;
+width: 183px;
+height: 39px;
+left: 1212px;
+top: 35px;
+
+font-family: SF Pro Display;
+font-style: normal;
+font-weight: normal;
+font-size: 32px;
+line-height: 38px;
+/* identical to box height */
+text-align: right;
+
+color: #FFFFFF;
+
+opacity: 0.4;
+
+}
+.vdu{
+/* VDU */
+
+position: absolute;
+width: 81px;
+height: 48px;
+left: 677px;
+top: 30px;
+
+font-family: SF Pro Display;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 48px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+}
+.search{
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 1270px;
+top: 89px;
+
+background: #343A40;
+border-radius: 100px;
+
+}
+.list{
+position: absolute;
+left: 92.61%;
+right: 5.85%;
+top: 9.5%;
+bottom: 88.37%;
+
+left: 92.61%;
+right: 6.97%;
+top: 9.5%;
+bottom: 89.92%;
+
+background: #FFFFFF;
+
+
+
+}
+.part{
+/* Group */
+
+position: absolute;
+left: 95.68%;
+right: 2.79%;
+top: 9.5%;
+bottom: 88.37%;
+
+}
+
+
+.main1{
+    position: absolute;
+    width: 327px;
+    height: 215px;
+    left: 485px;
+    top: 344px;
+    
+}
+.main2{
+    position: absolute;
+    width: 327px;
+    height: 215px;
+    left: 828px;
+    top: 344px;
+    
+}
+.main3{
+    position: absolute;
+    width: 327px;
+    height: 215px;
+    left: 1171px;
+    top: 344px;
+    
+}
+.main4{
+    position: absolute;
+    width: 327px;
+    height: 215px;
+    left: 1514px;
+    top: 344px;
+    
+}
+.header{
+    position: absolute;
+width: 154.64px;
+height: 40px;
+left: -1px;
+top: 18px;
+
+}
+.nfvo1{
+    position: absolute;
+    left: 18px;
+    top: 8px;
+    color:white;
+    font-size:20px;
+}
+.item1{
+    position: absolute;
+    display: flex;
+    top: 101px;
+    left: 21px;
+}
+.icon-item1{
+
+}
+.info-item1{
+    line-height:1.6rem
+}
+.item2{
+
+}
+.icon-item2{
+
+}
+.info-item2{
+    
+}
+.item3{
+
+}
+.icon-item3{
+
+}
+.info-item3{
+    
+}
+.item4{
+
+}
+
+.icon-item4{
+
+}
+.info-item4{
+    
+}
+
+.t1{
+    position: absolute;
+left: 14.98%;
+right: 59.94%;
+top: 38.51%;
+bottom: 45.12%;
+
+font-family: SF Pro Text;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+opacity: 0.6;
+}
+
+.t2{
+    position: absolute;
+left: 14.98%;
+right: 59.94%;
+top: 60.44%;
+bottom: 24.19%;
+
+font-family: SF Pro Text;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+opacity: 0.6;
+}
+
+.t3{
+    position: absolute;
+left: 62.69%;
+right: 17.74%;
+top: 38.51%;
+bottom: 45.12%;
+
+font-family: SF Pro Text;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+
+opacity: 0.6;
+}
+
+.t4{
+    position: absolute;
+left: 62.69%;
+right: 31.19%;
+top: 60.44%;
+bottom: 24.19%;
+
+font-family: SF Pro Text;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+opacity: 0.6;
+}
+
+.i1{
+    position: absolute;
+left: 5.2%;
+right: 88.69%;
+top: 45.12%;
+bottom: 45.58%;
+
+opacity: 0.6;
+}
+.i2{
+    position: absolute;
+    left: 5.5%;
+    right: 88.38%;
+    top: 66.98%;
+    bottom: 23.72%;
+    
+    opacity: 0.6;
+}
+.i3{
+    position: absolute;
+left: 52.91%;
+right: 40.98%;
+top: 45.12%;
+bottom: 45.58%;
+
+opacity: 0.6;
+}
+.i4{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 173px;
+    top: 144px;
+    
+    opacity: 0.6;
+}
+
+.header-text{
+    position: absolute;
+width: 53px;
+height: 24px;
+left: 17px;
+top: 26px;
+
+font-family: SF Pro Text;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
